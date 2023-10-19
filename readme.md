@@ -3,4 +3,4 @@ push it to github
 jenkins server on aws
 integrate jenkins and github code
 dockerise the application
-and push it to staging
+and push it to prod
